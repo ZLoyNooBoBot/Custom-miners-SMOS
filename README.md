@@ -4,6 +4,6 @@ Miners are prepared for loading into the Custom Miner group.
 
 Thanks:
 
-BTC 3442mvnPUFE4qVTgMSZSBy3E4ip8K7iyYi
+BTC 1AzSj92STiESzvCWiuUCkdzbvGQzBrMi5y
 
-ETH 0x0147a8414fb7a9104b776ee80a9de616a7074665
+ETH 0xf33ee5d60c9cf86e199bf0b86131fc6c34262148
